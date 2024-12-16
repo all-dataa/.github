@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-all-dataa 社区致力于数据的去中心化收集/挖掘和合成再利用
+all-dataa 社区致力于信息/数据的去中心化收集/挖掘和合成再利用
