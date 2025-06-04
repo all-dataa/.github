@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-all-dataa 社区致力于信息/数据的去中心化收集/挖掘和合成再利用
+AI+X社区，2025年1月6日诞生于华师大，创始人是谢苹果。愿景是：我们想要用中国特色web3做世界最好玩的AI社区，给所有人以爱和家园。
